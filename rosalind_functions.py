@@ -1,4 +1,4 @@
-
+Reviewed my github commit from the first run 
 # -*- coding: utf-8 -*-
 """Rosalind_functions.ipynb
 
